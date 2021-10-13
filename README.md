@@ -7,9 +7,6 @@ This folder contains the source code for the reproduction of our empirical studi
 Michael Weiss and Paolo Tonella, **Uncertainty Quantification for Deep Neural Networks:An Empirical Comparison and Usage Guidelines**,
 Journal of Software: Testing, Verification and Reliability (STVR).
 
-To get access to `uncertainty_wizard` (the tool presented in the paper),
-please refer to [the library github repo](https://github.com/testingautomated-usi/uncertainty-wizard).
-
 #### Access to result databases:
 The results, which are shown in the papers' plots and tables in aggregated form, can be found 
 in a collection of ``sqlite`` databases. 
