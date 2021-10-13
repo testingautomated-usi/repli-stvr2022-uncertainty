@@ -1,7 +1,5 @@
 # Fail-Safe Execution of Deep Learning based Systems through Uncertainty Monitoring (Replication-Package)
 
-Traffic Dataset: https://filesender.switch.ch/filesender2/?s=download&token=5b974ad1-8d03-4c66-83db-311c3e77c9d5
-
 This folder contains the source code for the reproduction of our empirical studies, **under review**:
 
 Michael Weiss and Paolo Tonella, **Uncertainty Quantification for Deep Neural Networks:An Empirical Comparison and Usage Guidelines**,
