@@ -1,0 +1,14 @@
+# Uncertainty Wizard has to be imported manually during double blind review
+# - to maintain anonymity, pip download is disabled
+
+setuptools==41.0.0
+tensorflow-datasets==4.3.0
+matplotlib==3.3.1
+block-timer==0.2.0
+scikit-learn==0.23.2
+dataclasses==0.6
+tensorflow==2.5.0
+uncertainty-wizard==0.2.0b1
+opencv-python==4.4.0.42
+scikit-image==0.17.2
+tensorflow-probability==0.13.0
