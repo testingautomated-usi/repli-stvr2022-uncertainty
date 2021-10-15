@@ -228,7 +228,7 @@ def print_table_row(study, study_info: Dict, model_type, metric):
                 # min_epochs=50, min_samples=5, metric=metric, study=study)
                 mean_values = convolute(np_grid, np.mean)
                 standard_deviations = convolute(np_grid, np.std)
-                instability_r, instability_p = stats.spearmanr(mean_values.flatten(), standard_deviations.flatten())
+                instability_r, instability_p = stats.pearsonr(mean_values.flatten(), standard_deviations.flatten())
                 if instability_p > 0.05:
                     high_ps += 1
                 else:
@@ -409,8 +409,6 @@ def rank_table():
                                   selected_studies=eff_studies,
                                   include_ensembles=False)
 
-    # TODO Print table with these values
-    print("Breakpint")
 
     table = f"""
 \\begin{{tabular}}{{@{{}}llcccccccc@{{}}}}
