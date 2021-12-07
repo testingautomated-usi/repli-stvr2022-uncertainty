@@ -5,7 +5,7 @@ This folder contains the source code for the reproduction of our empirical studi
 Michael Weiss and Paolo Tonella, **Uncertainty Quantification for Deep Neural Networks:An Empirical Comparison and Usage Guidelines**,
 Journal of Software: Testing, Verification and Reliability (STVR).
 
-⚠️ UPDATE on December 7, 2021 ⚠️ This code uses a tensorflow version with a **critical** security vulnerability. We do not upgrade our dependencies in this repo (it's a repo intended for replication), but before you use this code on your machine, please make sure to update the dependencies or to run in a safe container. Find information about the vulnerability [here](https://github.com/advisories/GHSA-57wx-m983-2f88).
+⚠️ UPDATE on December 7, 2021 ⚠️ This code uses a tensorflow version with a **critical** security vulnerability. As this repo aims to serve for result replication, we must not upgrade our dependencies. Thus, before you use this code on your machine, please make sure to run it in a safe environment. Find information about the vulnerability [here](https://github.com/advisories/GHSA-57wx-m983-2f88).
 
 #### Access to result databases:
 The results, which are shown in the papers' plots and tables in aggregated form, can be found 
