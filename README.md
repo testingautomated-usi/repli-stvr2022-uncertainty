@@ -10,9 +10,9 @@ The results, which are shown in the papers' plots and tables in aggregated form,
 in a collection of ``sqlite`` databases. 
 After acceptance, we will upload them to zenodo. Until then, please use the following download link:
 
-[https://filesender.switch.ch/filesender2/?s=download&token=2e06d52a-6aec-4300-88bd-490a0f762c89](https://filesender.switch.ch/filesender2/?s=download&token=2e06d52a-6aec-4300-88bd-490a0f762c89)
+[https://filesender.switch.ch/filesender2/?s=download&token=f7c00a4b-e7d1-485b-ac6f-785e8a1f92b4](https://filesender.switch.ch/filesender2/?s=download&token=f7c00a4b-e7d1-485b-ac6f-785e8a1f92b4) *updated on december 7, with identical content (link was about to expire)*
 
-The link will expire in december. Should the reviewing still be in progress by then, we'll update the link with a more recent version.
+The link will expire in february. Should the reviewing still be in progress by then, we'll update the link with a more recent version.
 
 #### Limitations and notes:
 
